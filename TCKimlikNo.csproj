@@ -10,6 +10,7 @@
         <Product>TCKimlikNo</Product>
         <IsPackable>true</IsPackable>
         <PackageReadmeFile>README.md</PackageReadmeFile>
+        <RepositoryUrl>https://github.com/hsndmr/TC-Kimlik-No</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
