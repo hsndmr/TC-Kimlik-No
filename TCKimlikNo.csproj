@@ -8,6 +8,8 @@
         <Version>1.0.0</Version>
         <Author>demirjs</Author>
         <Product>TCKimlikNo</Product>
+        <IsPackable>true</IsPackable>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
